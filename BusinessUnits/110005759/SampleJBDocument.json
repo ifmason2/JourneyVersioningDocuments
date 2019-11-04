@@ -1,6 +1,6 @@
 {
 	"id": "6de43bec-ccb1-4657-a0c2-96c1df3637f0",
-	"version": 3,
+	"version": 4,
 	"name": "test_journey_CJM_send_email",
 	"description": "This journey is designed to test theexception handling",
 	"workflowApiVersion": 1,
